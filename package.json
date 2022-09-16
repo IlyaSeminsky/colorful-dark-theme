@@ -1,0 +1,37 @@
+{
+  "name": "colorful-dark-theme",
+  "displayName": "Landston Dark Theme",
+  "description": "Colorful Dark Theme, but ",
+  "publisher": "Landston",
+  "author": {
+    "name": "Ilya Seminski"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Main Color theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme.json"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "#09131b",
+    "theme": "dark"
+  },
+  "icon": "icons/LandstonLogo.png",
+  "keywords": [
+    "Dark Theme",
+    "Colorful",
+    "VS Code Theme",
+    "VSCode",
+    "Landston"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "props": {
+        "name": "Props",
+        "scope": [
+            "variable.parameter.js"
+        ],
+        "settings": {
+            "foreground": "#665412",
+            "fontStyle": "italic"
+        }
+    }
+}
